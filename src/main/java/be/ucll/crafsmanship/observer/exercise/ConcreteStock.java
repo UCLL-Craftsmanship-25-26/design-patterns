@@ -1,5 +1,8 @@
 package be.ucll.crafsmanship.observer.exercise;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class ConcreteStock implements Stock {
     private String stockSymbol;
     private double price;
